@@ -15,7 +15,6 @@ Create a new project.
 
 You will make only an activity called "Navegador" and it'll must be:
 
-Crea un nuevo proyecto. Tendrá una sola actividad con el título “Navegador” y el layout que se observa en la figura 1.
 Inicialmente, se mostrará como se ve en la figura 2, donde el WebView cargará el contenido del fichero que se adjunta, que deberá residir en la carpeta de assets (“file:///android_asset/web.html”)
 Cuando el usuario haga clic sobre el botón “Ver imagen”, se mostrará el smile de la figura 3. Este comportamiento ya se encuentra programado como JavaScript en el fichero HTML que se adjunta, de modo que sólo debes preocuparte por activar JavaScript.
 Cuando el usuario haga clic sobre el botón “Ir a Google”, se cargará la página de Google en el mismo WebView, no en un navegador externo. Además, debes capturar el evento para hacer que la URL d Google a la que se dirige se muestre en el cuadro de texto superior.
